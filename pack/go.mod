@@ -1,3 +1,3 @@
-module github.com/go-pack/pack
+module github.com/ablades/go-pack/pack
 
 go 1.14
