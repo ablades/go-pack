@@ -5,4 +5,5 @@ type PK struct {
 	Weight  float64
 	Name    string
 	Company string
+	Test    int
 }
