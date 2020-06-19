@@ -6,4 +6,6 @@ type PK struct {
 	Name    string
 	Company string
 	Test    int
+	Please  string
+	Work    int
 }
